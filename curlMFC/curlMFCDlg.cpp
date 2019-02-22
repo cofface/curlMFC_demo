@@ -161,5 +161,5 @@ void CcurlMFCDlg::OnBnClickedButton1()
 {
 	// TODO: 在此添加控件通知处理程序代码
 	curlFile m_curlFile;
-	m_curlFile.CURL_GetFile(L"http://mirrors.163.com/ubuntu-releases/17.10/ubuntu-17.10.1-server-amd64.img", L"d:\\22.exe");
+	m_curlFile.CURL_GetFile(L"https://qd.myapp.com/myapp/qqteam/pcqq/QQ9.0.8_1.exe", L"d:\\qq.exe");
 }
